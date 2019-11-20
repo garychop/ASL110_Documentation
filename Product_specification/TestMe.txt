@@ -1,1 +1,0 @@
-This is a test of my ability to store, retrieve and participate efectively using Git.
